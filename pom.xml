@@ -35,7 +35,7 @@
 
 	<packaging>pom</packaging>
 
-	<name>Policy - PDP</name>
+	<name>policy-pdp</name>
 	<description>Code that implements the Policy Decision Engine common code.</description>
 
 	<properties>
